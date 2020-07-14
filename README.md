@@ -7,13 +7,13 @@
 Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor
 Here are some ideas to get you started:
 
-• Platform : Linux, Windows.
+- Platform : Linux, Windows.
 
-• Programming language: C, JAVA, Javascript, Typescript
+- Programming language: C, JAVA, Javascript, Typescript
 
-• Software Development : Java Swing, AWT, Java-Fx.
+- Software Development : Java Swing, AWT, Java-Fx.
 
-• Web Development (Full-stack):
+- Web Development (Full-stack):
 
 - Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
 
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 - Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
 
-• Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
+- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
 
-• DevOps Tools : Maven, Git Version-control, Jenkins.
+- DevOps Tools : Maven, Git Version-control, Jenkins.
 
-• Project Management: Agile, Jira, Asana
+- Project Management: Agile, Jira, Asana
 
-• Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
+- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
 
 
