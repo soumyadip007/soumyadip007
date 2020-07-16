@@ -4,29 +4,28 @@
 [![Twitter Badge](https://img.shields.io/badge/-@S_oumyadip-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/s_oumyadip)](https://twitter.com/s_oumyadip) [![Linkedin Badge](https://img.shields.io/badge/-SoumyadipChowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-chowdhury/)](https://www.linkedin.com/in/soumyadip-chowdhury)
 [![Gmail Badge](https://img.shields.io/badge/-soumyadip.note@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soumyadip.note@gmail.com)](mailto:soumyadip.note@gmail.com)
 
-Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor
-Here are some ideas to get you started:
 
-- Platform : Linux, Windows.
+### Demo
 
-- Programming language: C, JAVA, Javascript, Typescript
+- Default
 
-- Software Development : Java Swing, AWT, Java-Fx.
+![Soumyadip's github stats](https://github-readme-stats.vercel.app/api?username=soumyadip007)
 
-- Web Development (Full-stack):
+- Hiding specific stats
 
-  •  Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
+![Soumyadip's github stats](https://github-readme-stats.vercel.app/api?username=soumyadip007&hide=["contribs","issues"])
 
-  • Microservices: Restful Web-services, JSON, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring (Rest, Web Flux, Web Client), Retrofit, ElasticSearch, GraphQL, Kafka, Eureka, Zull.
+- Showing icons
 
-  • Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
+![Soumyadip's github stats](https://github-readme-stats.vercel.app/api?username=soumyadip007&hide=["issues"]&show_icons=true)
 
-- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
+- Customizing stats card
 
-- DevOps Tools : Maven, Git Version-control, Jenkins.
+![Soumyadip's github stats](https://github-readme-stats.vercel.app/api/?username=soumyadip007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-- Project Management: Agile, Jira, Asana
+- Customizing repo card
 
-- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=soumyadip007&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 
 
