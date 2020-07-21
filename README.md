@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-soumyadip.note@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soumyadip.note@gmail.com)](mailto:soumyadip.note@gmail.com)
 
 
+![](https://github-readme-stats.vercel.app/api?username=soumyadip007&show_icons=true&line_height=30)
 
 Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor
 Here are some ideas to get you started:
