@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 - Project Management: Agile, Jira, Asana
 
 - Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
+
+
+#### Overall profile stats
+
+![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko)
