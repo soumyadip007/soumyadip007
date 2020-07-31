@@ -176,6 +176,5 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-![](https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007) 
-[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
+![](https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
