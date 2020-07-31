@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 #### Overall profile stats
 
-![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko$show_pr=false)
