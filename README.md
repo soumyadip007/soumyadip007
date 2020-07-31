@@ -1,5 +1,5 @@
 # Hi, I'm Soumyadip 👋:man_technologist:
- <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+ <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
   
   
 <!---[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
