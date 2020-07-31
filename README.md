@@ -13,7 +13,13 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> --->
 <p align="center">
-<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> </p>
+<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/t.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/soumyadip-chowdhury//"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/l.png"></a>
+<a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/mm.png"></a>
+<a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/p.png"></a>
+
+
+</p>
   
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
