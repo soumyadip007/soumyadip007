@@ -16,7 +16,7 @@
 
 
 ### Languages:
-<code><img src="/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
 <code><img src="/img/pl/java.png" height="30"></code>
 <code><img src="/img/pl/python.png" height="30"></code>
 <code><img src="/img/pl/js.png" height="30"></code>
