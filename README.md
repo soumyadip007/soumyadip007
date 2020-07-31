@@ -2,6 +2,9 @@
 <!---[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)--->
 
 
+### :open_book: :books: Skilled in :closed_book: :green_book:
+
+
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | Designation | Organization | Timeline |
