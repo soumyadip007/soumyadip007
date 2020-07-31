@@ -165,4 +165,5 @@
       <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
   </ul>
 <p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
-<br><img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
