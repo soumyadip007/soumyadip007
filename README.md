@@ -10,7 +10,27 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 
 
+- Platform : Linux, Windows.
 
+- Programming language: C, JAVA, Javascript, Typescript
+
+- Software Development : Java Swing, AWT, Java-Fx.
+
+- Web Development (Full-stack):
+
+  •  Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
+
+  • Microservices: Restful Web-services, JSON, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring (Rest, Web Flux, Web Client), Retrofit, ElasticSearch, GraphQL, Kafka, Eureka, Zull.
+
+  • Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
+
+- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
+
+- DevOps Tools : Maven, Git Version-control, Jenkins.
+
+- Project Management: Agile, Jira, Asana
+
+- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
 
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
