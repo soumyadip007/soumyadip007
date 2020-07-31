@@ -12,7 +12,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>--->
 <p align="center">
-<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> </p>
+<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> <br><img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> </p>
   
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
