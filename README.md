@@ -6,8 +6,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 ### Platform
-<code><img src="/img/platform/linux.png" height="30"></code>
-<code><img src="/img/platform/windows.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 
 --->
 
@@ -17,34 +17,34 @@
 
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
-<code><img src="/img/pl/java.png" height="30"></code>
-<code><img src="/img/pl/python.png" height="30"></code>
-<code><img src="/img/pl/js.png" height="30"></code>
-<code><img src="/img/pl/ts.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 
 ### Web Development (Full-stack):
 #### Backend/Server:
-<code><img src="/img/web/backend/j2ee.png" height="30"></code>
-<code><img src="/img/web/backend/jsp.png" height="30"></code>
-<code><img src="/img/web/backend/servlet.png" height="30"></code>
-<code><img src="/img/web/backend/spring.png" height="30"></code>
-<code><img src="/img/web/backend/springboot.png" height="30"></code>
-<code><img src="/img/web/backend/hibernate.png" height="30"></code>
-<code><img src="/img/web/backend/tomcat.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/springboot.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.png" height="30"></code>
 
 #### Micro-Services:
-<code><img src="/img/web/ms/rest.png" height="30"></code>
-<code><img src="/img/web/ms/rx.png" height="30"></code>
-<code><img src="/img/web/ms/webflux.jpg" height="30"></code>
-<code><img src="/img/web/ms/kafka.png" height="30"></code>
-<code><img src="/img/web/ms/graphql.png" height="30"></code>
-<code><img src="/img/web/ms/elastic.jpg" height="30"></code>
-<code><img src="/img/web/ms/oss.png" height="30"></code>
-<code><img src="/img/web/ms/eureka.png" height="30"></code>
-<code><img src="/img/web/ms/zuul.png" height="30"></code>
-<code><img src="/img/web/ms/hystrix.jpg" height="30"></code>
-<code><img src="/img/web/ms/seluth.png" height="30"></code>
-<code><img src="/img/web/ms/zipkin.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rx.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/webflux.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/kafka.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/graphql.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/elastic.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/oss.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/eureka.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zuul.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/hystrix.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/seluth.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zipkin.png" height="30"></code>
 - Platform : Linux, Windows.
 
 - Programming language: C, JAVA, Javascript, Typescript
