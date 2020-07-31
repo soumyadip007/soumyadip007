@@ -14,6 +14,6 @@
 
 ### Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
-    <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a"/>Blockchain & future of Web 3.0</a></li>
+    <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a" target="_blank"/>Blockchain & future of Web 3.0</a></li>
    
   </ul>
