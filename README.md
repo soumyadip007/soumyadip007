@@ -10,7 +10,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 ### Platform
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>--->
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> --->
 <p align="center">
 <b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> </p>
   
@@ -169,4 +170,4 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007" alt="profile views"/><img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
