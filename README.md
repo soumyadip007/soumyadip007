@@ -22,7 +22,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 
-### Web Development (Full-stack):]
+### Web Development (Full-stack):
 
 #### Backend/Server:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30"></code>
@@ -78,6 +78,14 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="30"></code>
+
+### Others:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/agile.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/bitmovin.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/kaltura.png" height="30"></code>
+
 
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
