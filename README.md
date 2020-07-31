@@ -92,7 +92,7 @@
 
 | Designation | Organization | Timeline |
 | :-: | :-: | :-: |<b>
-| <b>Assistant Software Engineer</b> | <b>[@HoiChoi.tv](https://www.hoichoi.tv/)</b> |<b> May 2020 - Present</b> | 
+| Assistant Software Engineer| [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Present | 
 | Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
 | Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
 | Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
