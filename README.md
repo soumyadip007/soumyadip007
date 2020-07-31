@@ -38,11 +38,11 @@
 <code><img src="/img/web/ms/webflux.jpg" height="30"></code>
 <code><img src="/img/web/ms/kafka.png" height="30"></code>
 <code><img src="/img/web/ms/graphql.png" height="30"></code>
-<code><img src="/img/web/ms/elastic.png" height="30"></code>
+<code><img src="/img/web/ms/elastic.jpg" height="30"></code>
 <code><img src="/img/web/ms/oss.png" height="30"></code>
 <code><img src="/img/web/ms/eureka.png" height="30"></code>
 <code><img src="/img/web/ms/zuul.png" height="30"></code>
-<code><img src="/img/web/ms/hystrix.png" height="30"></code>
+<code><img src="/img/web/ms/hystrix.jpg" height="30"></code>
 <code><img src="/img/web/ms/seluth.png" height="30"></code>
 <code><img src="/img/web/ms/zipkin.png" height="30"></code>
 - Platform : Linux, Windows.
