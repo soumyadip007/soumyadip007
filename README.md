@@ -22,7 +22,8 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
 
-### Web Development (Full-stack):
+### Web Development (Full-stack):]
+
 #### Backend/Server:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
@@ -30,6 +31,10 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/springboot.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.png" height="30"></code>
 
 #### Micro-Services:
@@ -51,40 +56,19 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/thymeleaf.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/angular.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
 
+#### Database:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/oracle.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/dy.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/cas.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
 
-#### Security:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-
-
-- Platform : Linux, Windows.
-
-- Programming language: C, JAVA, Javascript, Typescript
-
-- Software Development : Java Swing, AWT, Java-Fx.
-
-- Web Development (Full-stack):
-
-  •  Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
-
-  • Microservices: Restful Web-services, JSON, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring (Rest, Web Flux, Web Client), Retrofit, ElasticSearch, GraphQL, Kafka, Eureka, Zull.
-
-  • Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
-
-- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
-
-- DevOps Tools : Maven, Git Version-control, Jenkins.
-
-- Project Management: Agile, Jira, Asana
-
-- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
 
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
