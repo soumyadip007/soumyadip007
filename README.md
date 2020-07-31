@@ -1,9 +1,17 @@
 # Hi, I'm Soumyadip 👋💻
-<!---[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)--->
-
-
-### :open_book: :books: Skilled in :closed_book: :desktop_computer:
+<!---[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
 <b>- Platform:</b>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+
+
+--->
+
+
+## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+### Platform
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
@@ -33,7 +41,7 @@
 - Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
 
 
-### Work Experience :computer_mouse: :desktop_computer: :keyboard:
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | Designation | Organization | Timeline |
 | :-: | :-: | :-: |
@@ -45,7 +53,7 @@
 | J2EE Web Developer Intern | [@Aim-India](http://www.aimindia.org.in) | Nov 2018 - Dev 2018 |
 | Software Developer Intern | [@Team-Cognito]() | Aug 2018 - Oct 2018 |
 
-### Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
+## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
     <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a" />Blockchain & future of Web 3.0</a></li>
    <li><a href="https://medium.com/@iamsoumyadip/a-decentralized-system-to-rescue-victims-from-natural-and-man-made-post-disasters-through-dtn-8a3faee687b8" />A decentralized system to rescue victims from post disasters through DTN</a></li>
