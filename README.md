@@ -112,8 +112,13 @@
   <tbody>
   <tr>
 	    <td><a href="https://github.com/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software"><b>Java-JavaFx-Swing Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Softwareh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software?style=flat-square&labelColor=343b41"/></td>
+     </tr>
+	 <tr>
+	    <td><a href="https://github.com/soumyadip007/Introduction-to-Python"><b>Introduction to Python</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Introduction-to-Python?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Introduction-to-Python?style=flat-square&labelColor=343b41"/></td>
      </tr>
 
   </tbody>
