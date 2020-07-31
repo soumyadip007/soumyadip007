@@ -27,23 +27,29 @@
 - Programming language: C, JAVA, Javascript, Typescript
 
 - Software Development : Java Swing, AWT, Java-Fx.
+• Web Development (Full-stack):
 
-- Web Development (Full-stack):
+- Serverside/Backend: Java EE Technologies, JSP, Servlet, JSTL, Spring Framework (Core, MVC, BOOT, AOP, Data, Cloud ), JPA, Hibernate-ORM, Apache-Tomcat, Glassfish & JBoss Application server, API Integration.
 
-  •  Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
+- Microservices: Restful Web-services, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring Rest, Web-Flux, Web-Client, Web-Socket, Redis, ElasticSearch, GraphQL, Kafka, Eureka, Zull, Hystrix, Sleuth, Zipkin
 
-  • Microservices: Restful Web-services, JSON, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring (Rest, Web Flux, Web Client), Retrofit, ElasticSearch, GraphQL, Kafka, Eureka, Zull.
+- Security: Spring Security, JWT Authentication, OAuth, Ldap, API Security
 
-  • Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
+- User side/Frontend: Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux, Ajax, jQuery, SockJs, WebJars
 
-- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
+• Database: MySql, Oracle, MongoDB, Redis, Casandra
 
-- DevOps Tools : Maven, Git Version-control, Jenkins.
+• Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS Lambda, Route 53, S3 Bucket, CI/CD Pipeline.
 
-- Project Management: Agile, Jira, Asana
+• Testing Tools: API Testing (Postman, Swagger), Junit
 
-- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
+• System Design: Knowledge of Developing Scalable Distributed System, UML, Load Balanced Microservice System , OOAD and System Design
 
+• Project Management: Agile, Jira, Asana
+
+• OTT Technologies : Kaltura, Content-Encoding, Bitmovin, H264, H265, Tx-Muxing, Fmp4 Muxing, HLS, VP9, Pertitle, OTT API integration, DRM (Axinom) Encryption & Integration, CDN, Vmaf (Netflix Library)
+
+• DevOps and Other Tools : Maven, Gradle, Git Version-control, Jenkins, Docker, Kubernetes
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
