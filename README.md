@@ -12,7 +12,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>--->
 <p align="center">
-<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> <br><br><img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> </p>
+<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b> </p>
   
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
@@ -165,3 +165,4 @@
       <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
   </ul>
 <p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
+<br><img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
