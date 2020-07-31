@@ -5,51 +5,70 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-
+### Platform
+<code><img src="/img/platform/linux.png" height="30"></code>
+<code><img src="/img/platform/windows.jpg" height="30"></code>
 
 --->
 
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
-### Platform
-<code><img src="/img/platform/linux.png" height="30"></code>
-<code><img src="/img/platform/windows.jpg" height="30"></code>
 
-### Languages
+
+### Languages:
 <code><img src="/img/pl/c.png" height="30"></code>
 <code><img src="/img/pl/java.png" height="30"></code>
 <code><img src="/img/pl/python.png" height="30"></code>
 <code><img src="/img/pl/js.png" height="30"></code>
 <code><img src="/img/pl/ts.png" height="30"></code>
 
+### Web Development (Full-stack):
+#### Backend/Server:
+<code><img src="/img/web/backend/j2ee.png" height="30"></code>
+<code><img src="/img/web/backend/jsp.png" height="30"></code>
+<code><img src="/img/web/backend/servlet.png" height="30"></code>
+<code><img src="/img/web/backend/spring.png" height="30"></code>
+<code><img src="/img/web/backend/springboot.png" height="30"></code>
+<code><img src="/img/web/backend/hibernate.png" height="30"></code>
+<code><img src="/img/web/backend/tomcat.png" height="30"></code>
+
+#### Micro-Services:
+<code><img src="/img/web/ms/rest.png" height="30"></code>
+<code><img src="/img/web/ms/rx.png" height="30"></code>
+<code><img src="/img/web/ms/webflux.png" height="30"></code>
+<code><img src="/img/web/ms/kafka.png" height="30"></code>
+
+<code><img src="/img/web/ms/graphql.png" height="30"></code>
+<code><img src="/img/web/ms/elastic.png" height="30"></code>
+<code><img src="/img/web/ms/oss.png" height="30"></code>
+<code><img src="/img/web/ms/eureka.png" height="30"></code>
+
+<code><img src="/img/web/ms/zuul.png" height="30"></code>
+<code><img src="/img/web/ms/hystrix.png" height="30"></code>
+<code><img src="/img/web/ms/seluth.png" height="30"></code>
+<code><img src="/img/web/ms/zipkin.png" height="30"></code>
 - Platform : Linux, Windows.
 
 - Programming language: C, JAVA, Javascript, Typescript
 
 - Software Development : Java Swing, AWT, Java-Fx.
-• Web Development (Full-stack):
 
-- Serverside/Backend: Java EE Technologies, JSP, Servlet, JSTL, Spring Framework (Core, MVC, BOOT, AOP, Data, Cloud ), JPA, Hibernate-ORM, Apache-Tomcat, Glassfish & JBoss Application server, API Integration.
+- Web Development (Full-stack):
 
-- Microservices: Restful Web-services, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring Rest, Web-Flux, Web-Client, Web-Socket, Redis, ElasticSearch, GraphQL, Kafka, Eureka, Zull, Hystrix, Sleuth, Zipkin
+  •  Serverside/Backend : Java EE Technologies, JSP, Servelt, JSTL ,Tomcat, Glassfish & JBoss Application server, Spring Framework (Core, MVC, BOOT, AOP, Security, Rest, Data), JPA, Hibernate-ORM, Soap, Mysql & Oracle databases, API Integration, API Testing (Postman, Swagger).
 
-- Security: Spring Security, JWT Authentication, OAuth, Ldap, API Security
+  • Microservices: Restful Web-services, JSON, Asynchronous & Synchronous API, Reactive Programming (RXJava), Spring (Rest, Web Flux, Web Client), Retrofit, ElasticSearch, GraphQL, Kafka, Eureka, Zull.
 
-- User side/Frontend: Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux, Ajax, jQuery, SockJs, WebJars
+  • Userside/Frontend : Html, CSS, Bootstrap, Thymeleaf, Angular-8, Data Binding, Redux.
 
-• Database: MySql, Oracle, MongoDB, Redis, Casandra
+- Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS ALB, AWS Lambda, Route 53, AWS ECR, S3 Bucket, Dynamo-DB, CI/CD Pipeline.
 
-• Cloud : AWS, AWS EC2, AWS ECS, AWS IAM, AWS ELB, AWS Lambda, Route 53, S3 Bucket, CI/CD Pipeline.
+- DevOps Tools : Maven, Git Version-control, Jenkins.
 
-• Testing Tools: API Testing (Postman, Swagger), Junit
+- Project Management: Agile, Jira, Asana
 
-• System Design: Knowledge of Developing Scalable Distributed System, UML, Load Balanced Microservice System , OOAD and System Design
+- Others : Micro-Services(Rest/Soap) integration in Android, Retrofit, OTT Content Encoding (Bitmovin, Akamai), Vmaf, DRM (Bitmovin, Axinom) Encryption & Integration, Junit testing.
 
-• Project Management: Agile, Jira, Asana
-
-• OTT Technologies : Kaltura, Content-Encoding, Bitmovin, H264, H265, Tx-Muxing, Fmp4 Muxing, HLS, VP9, Pertitle, OTT API integration, DRM (Axinom) Encryption & Integration, CDN, Vmaf (Netflix Library)
-
-• DevOps and Other Tools : Maven, Gradle, Git Version-control, Jenkins, Docker, Kubernetes
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
