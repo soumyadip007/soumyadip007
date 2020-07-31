@@ -167,6 +167,6 @@
 <p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
 
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=soumyadip007&hide=prs&count_private=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true)
 
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
