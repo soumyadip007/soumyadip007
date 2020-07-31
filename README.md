@@ -68,6 +68,16 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/cas.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
 
+### Cloud/Dev-Ops:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/lambda.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/s3.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.png" height="30"></code>
 
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
