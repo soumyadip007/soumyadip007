@@ -1,1 +1,1 @@
-# Hi, I'm Soumyadip 👋 🙋💻
+# Hi, I'm Soumyadip 👋💻
