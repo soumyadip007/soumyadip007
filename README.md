@@ -89,7 +89,7 @@
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
-| Designation | Organization | Timeline |
+| 💼 Designation |  🏢Organization | :time: Timeline  |
 | :-: | :-: | :-: |
 | Assistant Software Engineer | [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Present |
 | Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
