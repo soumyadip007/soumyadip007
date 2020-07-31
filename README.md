@@ -121,7 +121,28 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>
  <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
-  </tbody>
+	  	 <tr>
+	    <td><a href="https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python"><b>Object Oriented Programming</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
+ <tr>
+	    <td><a href="https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python"><b>Object Oriented Programming</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
+	 <tr>
+	    <td><a href="https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python"><b>Data Structrue</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
+ 
+  </tbody>	 <tr>
+	    <td><a href="https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python"><b>Data Structrue</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
+ 
 </table>
 
 
