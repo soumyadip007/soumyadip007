@@ -15,9 +15,12 @@
 <code><img src="/img/platform/linux.png" height="30"></code>
 <code><img src="/img/platform/windows.jpg" height="30"></code>
 
-| ### Platform |
-<code><img src="/img/platform/linux.png" height="30"></code>
-<code><img src="/img/platform/windows.jpg" height="30"></code> |
+### Languages
+<code><img src="/img/pl/c.png" height="30"></code>
+<code><img src="/img/pl/java.png" height="30"></code>
+<code><img src="/img/pl/python.png" height="30"></code>
+<code><img src="/img/pl/js.png" height="30"></code>
+<code><img src="/img/pl/ts.png" height="30"></code>
 
 - Platform : Linux, Windows.
 
