@@ -12,8 +12,8 @@
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 ### Platform
-<code><img height="./img/platform/linux.png" src=""></code>
-<code><img height="./img/platform/windows.png" src=""></code>
+<code><img src="/img/platform/linux.png" height="30"></code>
+<code><img src="/img/platform/windows.png" height="30"></code>
 
 
 
