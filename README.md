@@ -10,7 +10,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 
 --->
-
+<b>Software Engineer @HoiChoi.tv | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor </b>
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
