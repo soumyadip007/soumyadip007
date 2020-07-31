@@ -1,5 +1,5 @@
 # Hi, I'm Soumyadip 👋💻
-[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
+<!---[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)--->
 
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
