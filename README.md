@@ -19,3 +19,4 @@
    <li><a href="https://medium.com/@iamsoumyadip/a-tri-folded-intelligent-system-to-pre-monitor-and-predict-a-tsunami-flood-and-earthquake-based-b92961094b32" />A tri-folded Intelligent System to pre-monitor and predict Disaster</a></li>
       <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
   </ul>
+<p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
