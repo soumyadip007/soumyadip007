@@ -132,6 +132,16 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
  <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
+ 	  <tr>
+	    <td><a href="https://github.com/soumyadip007/Console-Based-Projects-C"><b>Console Based Project C</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>    </tr>
+ 	  <tr>
+	    <td><a href="https://github.com/soumyadip007/https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL"><b>E Medical System-Spring Boot </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>    </tr>
  
   </tbody>	 
 </table>
