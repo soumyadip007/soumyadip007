@@ -15,8 +15,8 @@
 <p align="center">
 <a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/t.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
-<a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/master/img/social/p.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
+<a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/p.png"></a>&nbsp;&nbsp;
 
 
 </p>
