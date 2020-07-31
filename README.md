@@ -15,7 +15,9 @@
 <code><img src="/img/platform/linux.png" height="30"></code>
 <code><img src="/img/platform/windows.jpg" height="30"></code>
 
-
+| ### Platform |
+<code><img src="/img/platform/linux.png" height="30"></code>
+<code><img src="/img/platform/windows.jpg" height="30"></code> |
 
 - Platform : Linux, Windows.
 
