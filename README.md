@@ -20,7 +20,7 @@
 </p>
   
 
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cover.jpeg" >
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/cover.jpeg" >
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
