@@ -12,6 +12,8 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> --->
+
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/cover.jpeg" >
 <p align="center">
 <a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
@@ -20,7 +22,6 @@
 </p>
   
 
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/cover.jpeg" >
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
