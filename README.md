@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub  👨‍💻</h1>
-  :octocat:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub  :octocat: 👨‍💻</h1>
+  
 <!--
 [![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
 <b>- Platform:</b>
