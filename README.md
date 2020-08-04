@@ -12,8 +12,7 @@
 ### Platform
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> 
-![](https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007)--->
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007)--->
 
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >
 <p align="center">
