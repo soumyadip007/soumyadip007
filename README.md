@@ -12,7 +12,8 @@
 ### Platform
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> --->
+<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> 
+![](https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007)--->
 
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >
 <p align="center">
@@ -190,5 +191,6 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-![](https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007)
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+
+<style>.bmc-button img{height: 34px !important;width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 15px 7px 10px !important;line-height: 35px !important;height:51px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF813F !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 15px 7px 10px !important;font-size: 28px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/soumyadip"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px;font-size:28px !important;">Buy me a coffee</span></a>
