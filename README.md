@@ -10,6 +10,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 ### Platform
+## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007 --->
@@ -24,7 +25,6 @@
   
 
 
-## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
