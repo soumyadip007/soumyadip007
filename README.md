@@ -185,7 +185,8 @@
      <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_haktoberfest2019-hacktoberfest2019-digitalocean-activity-6593966104467599360-unkY" />Digital Ocean Hacktober Fest Qualified (2019)</a></li>
        <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_technorion-iitbombay-techfest-activity-6583805124882325504-6he2" />3rd In Co-Decode TechnoRion (Coding Competition, IIT-Bombay, 2019)</a></li>
    <li><a href="https://twitter.com/s_oumyadip/status/1288160643225280513" />1st Top Most Active Github User In INDIA (2020, By Commits.Top)
-<li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_beta-msp-mspabrgold-activity-6659703773394546694-GKGQ" />Microsoft Beta Student Partner Among 700 MSP In INDIA (2019)</a></li>
+<li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_beta-msp-mspabrgold-activity-6659703773394546694-GKGQ" />Microsoft Beta Student Partner Among 700 MSP In INDIA (2019-21)</a></li>
+  <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
   
   </ul>
 
