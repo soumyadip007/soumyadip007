@@ -189,6 +189,18 @@
   <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
   
   </ul>
+  
+  
+  
+#### GitHub Trophies
+  
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soumyadip007&column=7"/>
+  </a>
+</div>
+
 
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
