@@ -104,7 +104,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| SDE Intern | [@Bajaj Finserv Health](https://www.hoichoi.tv/) | Sep 2020 - Present |
+| SDE Intern | [@Bajaj Finserv Health](https://www.bajajfinservhealth.in/) | Sep 2020 - Present |
 | Assistant Software Engineer | [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Sep 2020 |
 | Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
 | Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
