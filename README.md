@@ -14,7 +14,7 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007 --->
 
-<!-- <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >  --!>
+ <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame1.jpg" >  
 <p align="center">
 <a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
